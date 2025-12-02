@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Hao
-middle_name: 
+middle_name:
 last_name: Yu
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: North Shore # blog_name will be displayed in your blog page
+blog_description: Exploration
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -102,7 +102,7 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
+  repo: whimian/whimian.github.io
   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
   category_id: # leave empty or specify your category_id (see https://giscus.app/)
@@ -145,11 +145,11 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
     output: true
 
@@ -264,8 +264,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Yu]
+  first_name: [Hao]
 
   style: apa
   locale: en
@@ -633,12 +633,15 @@ jsonresume:
   - basics
   - work
   - education
+    Phd.
   - publications
   - projects
   - volunteer
   - awards
   - certificates
   - skills
+    Information System Planning,
   - languages
+    Chinese, English
   - interests
   - references
