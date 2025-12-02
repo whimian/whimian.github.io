@@ -6,13 +6,13 @@
 #  organization: princeton # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
 # acm_id: # your dl.acm.org/profile/id
-# arxiv_id: # your arXiv author ID
+arxiv_id: whimian # your arXiv author ID
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: phd.hao.yu@outlook.com # your email address
+email: hao.yu.phd@outlook.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 github_username: whimian
@@ -29,7 +29,7 @@ github_username: whimian
 # linkedin_username: # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
+orcid_id: 0000-0002-4109-6358
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
