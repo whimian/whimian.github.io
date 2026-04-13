@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-04'
+  last_updated: '2026-04-13'
 papers:
   9DvPsD4AAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: A machine learning methodology for multivariate pore-pressure prediction
     year: '2020'
   9DvPsD4AAAAJ:hFOr9nPyWt4C:
-    citations: 2
+    citations: 3
     title: 'PyGeoPressure: Geopressure Prediction in Python.'
     year: '2018'
   9DvPsD4AAAAJ:mB3voiENLucC:
