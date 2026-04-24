@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-24'
 papers:
   9DvPsD4AAAAJ:-f6ydRqryjwC:
     citations: 0
     title: 'pyGeoPressure: an Open-Source Package for Geopressure Prediction'
     year: '2019'
   9DvPsD4AAAAJ:hC7cP41nSMkC:
-    citations: 99
+    citations: 100
     title: A machine learning methodology for multivariate pore-pressure prediction
     year: '2020'
   9DvPsD4AAAAJ:hFOr9nPyWt4C:
