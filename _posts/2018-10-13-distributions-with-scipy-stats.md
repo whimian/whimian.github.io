@@ -5,4 +5,4 @@ category: Statistics
 tags: python, scipy, statistics
 ---
 
-{% notebook distributions_with_scipy_stats.ipynb%}
+distributions_with_scipy_stats.ipynb
