@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 在Powershell中使用Conda的activate
 date: 2017-10-23 09:00
 category: python

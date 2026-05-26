@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Windows 10 安装 OpenSSH
 date: 2017-11-23 09:00
 category: CS

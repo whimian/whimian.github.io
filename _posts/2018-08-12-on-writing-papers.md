@@ -1,4 +1,5 @@
 ---
+layout: post
 title: On Writing Papers
 date: 2018-08-12 16:00
 category: Research

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Dimensionality of ConvNet
 date: 2018-11-12 20:00
 category: python

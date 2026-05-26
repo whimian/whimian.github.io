@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 设置Powershell终端
 date: 2020-04-14 09:00
 category: python, powershell, windows
