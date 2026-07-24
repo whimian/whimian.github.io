@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: China Aviation Planning and Design Institute.
+subtitle: Researcher at China Aviation Planning and Design Institute.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_20260724_160849.png
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>China Aviation Planning and Design Institute</p>
     <p>12, Deshengmen Outer Street</p>
     <p>Xicheng, Beijing, 100120</p>
 
